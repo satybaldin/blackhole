@@ -4,7 +4,7 @@
 ![Issues](https://img.shields.io/github/issues/satybaldin/blackhole)
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
-![GitHub License](https://img.shields.io/github/license/satybaldin/blackhole)
+<img alt="GitHub License" src="https://img.shields.io/github/license/satybaldin/blackhole">
 
 Blackhole is an open-source integration sink and simulator for distributed systems.
 
