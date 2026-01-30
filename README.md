@@ -5,6 +5,7 @@
 ![.NET](https://img.shields.io/badge/.NET-10.0-purple)
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
 ![License](https://img.shields.io/github/license/satybaldin/blackhole)
+
 Blackhole is an open-source integration sink and simulator for distributed systems.
 
 It provides a controlled environment for capturing, inspecting, replaying, and simulating external integrations such as SMTP, HTTP APIs, and webhooks. Blackhole is designed for local development, automated testing, and integration debugging, where interacting with real third-party services is impractical, unreliable, or unsafe.
